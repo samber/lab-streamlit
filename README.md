@@ -174,3 +174,5 @@ Charts on Streamlit: https://docs.streamlit.io/develop/api-reference/charts
 ## Step 4 - Deploy!
 
 Streamlit has a great tutorial to deploy a Streamlit app hosted on Github: https://docs.streamlit.io/deploy/streamlit-community-cloud
+
+That's all folk'! ✌️
